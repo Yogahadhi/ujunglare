@@ -783,11 +783,11 @@ include "inc/koneksi.php";
 			<div class="float-right d-none d-sm-block">
 				Copyright &copy;
 				<a target="_blank" href="https://www.instagram.com/kknuh108.watangsoreang/">
-					<strong> KKN Posko Kelurahan Ujung Lare</strong>
+					<strong> KKNT Posko Kelurahan Ujung Lare</strong>
 				</a>
 				All rights reserved.
 			</div>
-			<b>SINTING VERSI 2022</b>
+			<b>STUNTING VERSI 2022</b>
 		</footer>
 
 		<!-- Control Sidebar -->
